@@ -1,2 +1,6 @@
 
 movie_recommend/data/ratings.csv
+movie_recommend/data/links_small.csv
+movie_recommend/data/links.csv
+movie_recommend/data/keywords.csv
+movie_recommend/data/credits.csv
